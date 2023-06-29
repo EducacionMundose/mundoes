@@ -40,11 +40,9 @@ Por último, configuramos la part de monitoreo de pods con el stack de `promethe
 - [Introduction to Docker Compose](http://dockerlabs.collabnix.com/intermediate/docker-compose/)
 - [Dockerfile Vs Docker compose ](http://dockerlabs.collabnix.com/intermediate/workshop/DockerCompose/Difference_between_dockerfile_and_docker_compose.html)
 - [How to Install Docker Compose? ](http://dockerlabs.collabnix.com/intermediate/workshop/DockerCompose/How_to_Install_Docker_Compose.html)
--->
 
 ### Kubernetes
-
-### AWS
-<!--  [Setup AWS Free Tier](https://cloudkatha.com/how-to-setup-your-aws-free-tier-account-the-right-way/)-->
+- [Setup AWS Free Tier](https://cloudkatha.com/how-to-setup-your-aws-free-tier-account-the-right-way/)
 
 ### Monitoreo
+-->
