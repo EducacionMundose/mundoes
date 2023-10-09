@@ -27,11 +27,9 @@ Por último, configuramos la part de monitoreo de pods con el stack de `promethe
 
 5. Configurar kubectl
 
-6. Azure Devops Setup
+6. Github Actions
 
-7. Github Actions
-
-8. Herramientas de monitoreo
+9. Herramientas de monitoreo
 
 
 # Bibliografía
